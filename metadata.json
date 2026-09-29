@@ -1,0 +1,6 @@
+{
+  "name": "Emagrecimento em Números - Método de Autocálculo",
+  "description": "Descubra exatamente quanto comer e como treinar em casa para emagrecer usando apenas fita métrica e a calculadora do celular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
